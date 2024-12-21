@@ -1,5 +1,5 @@
 CIVIC IDENTITY REGISTRY LICENSE (CIRL)  
-Version 1.0, 2024
+Version 1.1, 2024
 
 Copyright (c) 2024, Administrator of the Civic Identity Registry (CIR).
 
@@ -51,4 +51,3 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 **For more information, visit:**  
 [https://github.com/Civic-Identity-Registry/license](https://github.com/Civic-Identity-Registry/license)  
 **Contact us at:** [license@civicidentity.org](mailto:license@civicidentity.org)
-
